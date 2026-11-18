@@ -1,0 +1,7 @@
+pyspark
+pyarrow
+pandas
+requests
+SQLAlchemy
+psycopg2-binary
+pytest

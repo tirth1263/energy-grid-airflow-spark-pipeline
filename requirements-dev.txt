@@ -1,0 +1,7 @@
+# Local / CI test dependencies (no Airflow or Postgres needed for the unit tests)
+pyspark==3.5.4
+pyarrow
+pandas
+requests
+SQLAlchemy
+pytest
